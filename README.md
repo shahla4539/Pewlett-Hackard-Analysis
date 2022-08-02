@@ -42,6 +42,9 @@ The purpose of the new analysis is well defined. (3 pt)
 * Using the ERD I created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
 * The Mentorship Eligibility table is exported as mentorship_eligibility.csv.
 
+![image](https://user-images.githubusercontent.com/105535250/182487264-f0e77ad4-7051-410d-89f7-98bdfe7da36f.png)
+
+
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 Summary:
 
