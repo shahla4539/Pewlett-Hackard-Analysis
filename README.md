@@ -54,13 +54,19 @@ Then, I created a **retiring_titles** table to hold the required information of 
 
 The **mentorship_eligibility** table holds the employees who are eligible to participate in a mentorship program. I added a **WHERE CLAUSE**  to extract the current employees who were born between January 1, 1965 and December 31, 1965.
 
-### Help the Sales 
+### Sales and Development Dept:
+I create another query that will return the following information for the Sales and Development teams:
+Employee numbers
+Employee first name
+Employee last name
+Employee department name
+This table is created to help the managers in both the Sales and Development departments as they wanted to try a new mentoring program for employees getting ready to retire
 
 SELECT *
 FROM dept_info
 WHERE dept_name IN ('Sales', 'Development');
 
--- Creating list for Sales info
+-- Creating table for Sales info
 SELECT emp_no,
 first_name,
 last_name,
@@ -70,6 +76,6 @@ FROM dept_info
 WHERE dept_name IN ('Sales', 'Development');
 SELECT * FROM sales_dept_info;
 
+![image](https://user-images.githubusercontent.com/105535250/182495458-2479e4a8-20f3-479f-baf5-0533f23b33cc.png)
 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
-Submission
+
