@@ -54,7 +54,7 @@ Then, I created a **retiring_titles** table to hold the required information of 
 
 The **mentorship_eligibility** table holds the employees who are eligible to participate in a mentorship program. I added a **WHERE CLAUSE**  to extract the current employees who were born between January 1, 1965 and December 31, 1965.
 
-
+### Help the Sales 
 
 SELECT *
 FROM dept_info
