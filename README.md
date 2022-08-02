@@ -63,11 +63,14 @@ I create another query that will return the following information for the Sales 
 
 This table is created to help the managers in both the Sales and Development departments as they wanted to try a new mentoring program for employees getting ready to retire
 
+--Using where clasue to extract specific data
+
 SELECT *
 FROM dept_info
 WHERE dept_name IN ('Sales', 'Development');
 
 -- Creating table for Sales info
+
 SELECT emp_no,
 first_name,
 last_name,
