@@ -56,10 +56,10 @@ The **mentorship_eligibility** table holds the employees who are eligible to par
 
 ### Sales and Development Dept:
 I create another query that will return the following information for the Sales and Development teams:
-Employee numbers
-Employee first name
-Employee last name
-Employee department name
+* Employee numbers
+* Employee first name
+* Employee last name
+* Employee department name
 This table is created to help the managers in both the Sales and Development departments as they wanted to try a new mentoring program for employees getting ready to retire
 
 SELECT *
