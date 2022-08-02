@@ -27,15 +27,21 @@ The purpose of the new analysis is well defined. (3 pt)
 * A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955. 
 * The Retirement Titles table is exported as retirement_titles.csv. 
 
+![image](https://user-images.githubusercontent.com/105535250/182487599-344319c8-c997-4802-8671-9a099a4b354c.png)
+
 
 ## Unique Titles Table
 * A query is written and executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title. 
 * The Unique Titles table is exported as unique_titles.csv.
 
+![image](https://user-images.githubusercontent.com/105535250/182487718-bd6ba48c-3e70-46b2-95f2-54357e7918b2.png)
+
 
 ## Retiring Titles Table
 * A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring. 
 * The Retiring Titles table is exported as retiring_titles.csv.
+
+![image](https://user-images.githubusercontent.com/105535250/182487472-a081c851-f141-4cb1-af57-f7275dcf2cc3.png)
 
 
 ## Mentorship Eligibilty Table
