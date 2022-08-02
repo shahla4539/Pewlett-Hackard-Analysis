@@ -9,7 +9,8 @@ Each section has a heading and subheading. (2 pt)
 Links to images are working and displayed correctly. (2 pt)
 
 
-Overview of the analysis:
+# Overview of the analysis:
+
 
 The purpose of the new analysis is well defined. (3 pt)
 Results:
