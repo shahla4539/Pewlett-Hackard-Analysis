@@ -60,6 +60,7 @@ I create another query that will return the following information for the Sales 
 * Employee first name
 * Employee last name
 * Employee department name
+
 This table is created to help the managers in both the Sales and Development departments as they wanted to try a new mentoring program for employees getting ready to retire
 
 SELECT *
