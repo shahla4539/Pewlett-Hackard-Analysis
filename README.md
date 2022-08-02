@@ -54,5 +54,17 @@ Then, I created a **retiring_titles** table to hold the required information of 
 
 The **mentorship_eligibility** table holds the employees who are eligible to participate in a mentorship program. I added a **WHERE CLAUSE**  to extract the current employees who were born between January 1, 1965 and December 31, 1965.
 
+
+-- Creating list for Sales info
+SELECT emp_no,
+first_name,
+last_name,
+dept_name
+INTO sales_dept_info
+FROM dept_info
+WHERE dept_name IN ('Sales', 'Development');
+SELECT * FROM sales_dept_info;
+
+
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
 Submission
