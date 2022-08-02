@@ -52,7 +52,14 @@ The purpose of the new analysis is well defined. (3 pt)
 
 
 ## Summary:
-To determine the number of retiring employees per title, I created **retirement_titles**. Then 
+
+To determine the number of retiring employees per title, I created **retirement_titles** table. 
+
+There are duplicate entries for some employees because they have switched titles over the years, to remove these duplicates and keep only the most recent title of each employee I created **unique_titles** table. Also excluded those employees who have already left the company by filtering on to_date to keep only those dates that are equal to '9999-01-01'.
+ 
+Then, I created a **retiring_titles** table to hold the required information of employees counted by their most recent job title who are about to retire.
+
+The **mentorship_eligibility** table holds the employees who are eligible to participate in a mentorship program. I added a **WHERE CLAUSE**  to extract the current employees who were born between January 1, 1965 and December 31, 1965.
 
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
 Submission
