@@ -21,7 +21,26 @@ Bobby is an HR Analyst whose job is to perform employee research. I will be help
 The purpose of the new analysis is well defined. (3 pt)
 
 
-Results:
+# Results:
+
+## Retirement Titles Table
+* A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955. 
+* The Retirement Titles table is exported as retirement_titles.csv. 
+
+
+## Unique Titles Table
+* A query is written and executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title. 
+* The Unique Titles table is exported as unique_titles.csv.
+
+
+## Retiring Titles Table
+* A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring. 
+* The Retiring Titles table is exported as retiring_titles.csv.
+
+
+## Mentorship Eligibilty Table
+* Using the ERD I created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
+* The Mentorship Eligibility table is exported as mentorship_eligibility.csv.
 
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 Summary:
