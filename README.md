@@ -11,7 +11,6 @@ Bobby is an HR Analyst whose job is to perform employee research. I will be help
 * How many positions Pewlett Hackard needs to fill?
 * determine the number of retiring employees per title?
 * Identify employees who are eligible to participate in a mentorship program? 
-The purpose of the new analysis is well defined. (3 pt)
 
 
 ## Results:
